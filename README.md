@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @SoubhLance!
+## *Code with Passion, Create with Precision, Deliver with Impact*
 
 I'm **Soubhik Sadhu**, a passionate tech enthusiast and a 2nd-year Computer Science Engineering student at **SRM University (KTR)** with a specialization in **Artificial Intelligence and Machine Learning**. I’m always on a quest to explore new technologies, challenge myself with innovative projects, and contribute to the tech community.
 
