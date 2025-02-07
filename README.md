@@ -31,7 +31,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/soubhiksa
 He/Him
 
 ## ⚡ Fun Facts
-- I love watching anime and often find inspiration from the worlds created in them.
-- When I’m not coding, you’ll find me relaxing with **meditation**, **yoga**, or listening to peaceful bhajans.
-- I’m currently learning how to ride a bike, taking time out of my tech-filled days for new experiences.
+- When I’m not coding, you’ll find me **reading the Gita**, or relaxing with **meditation**, **yoga**, and listening to **bhajans** or **kathas**.
+- I have a passion for exploring new technology, always eager to dive into the latest innovations.
+
   
