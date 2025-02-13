@@ -34,5 +34,7 @@ He/Him
 - When I’m not coding, you’ll find me **reading the Gita**, or relaxing with **meditation**, **yoga**, and listening to **bhajans** or **kathas**.
 - I have a passion for exploring new technology, always eager to dive into the latest innovations.
 
+![Soubhik's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoubhLance&show_icons=true&theme=transparent)
+
 
 
