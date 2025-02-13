@@ -16,7 +16,7 @@ I'm Soubhik Sadhu, a passionate tech enthusiast and a 2nd-year Computer Science 
 
 ---
 
-### 👀 What Excites Me
+### 👀 Areas of Focus:
 I’m deeply interested in:
 
 - **Operating System Development**: Currently building my own OS, Pavitra OS, based on Arch Linux.
@@ -26,25 +26,16 @@ I’m deeply interested in:
 
 ---
 
-### 🌱 Currently Learning
-I’m currently expanding my knowledge in:
+### 🌱 Currently Exploring:
 
-- Advanced Machine Learning (AI/ML) Algorithms and AI applications.
-- Natural Language Processing (NLP) to explore how machines can understand and process human language.
-- OpenCV integration with Python to bring computer vision to life.
-- Deepening my expertise in Unreal Engine for game development.
-- Linux System Development for custom OS building.
-
+- Advanced AI/ML algorithms and their practical applications.
+- Natural Language Processing (NLP) for seamless human-machine interaction.
+- OpenCV for computer vision innovations with Python.
+- Deepening game development capabilities in Unreal Engine.
+- Expanding knowledge in custom OS builds (Linux).
+  
 ---
 
-### 💞️ Looking to Collaborate On
-I’m open to collaborating on exciting projects related to:
-
-- **AI and ML Projects**: Algorithms, automation, or computer vision.
-- **Game Development**: Building immersive gaming experiences.
-- **Open Source Contributions**: Especially in DBMS, operating systems, or app development.
-
----
 
 ### ⚙️ Skills & Abilities
 
