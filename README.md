@@ -34,4 +34,5 @@ He/Him
 - When I’m not coding, you’ll find me **reading the Gita**, or relaxing with **meditation**, **yoga**, and listening to **bhajans** or **kathas**.
 - I have a passion for exploring new technology, always eager to dive into the latest innovations.
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+
