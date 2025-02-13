@@ -75,6 +75,7 @@ I’m deeply interested in:
 
 [![SoubhLance's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoubhLance&theme=react-dark)](https://github.com/SoubhLance)
 
+
 ---
 ---
 
@@ -119,6 +120,19 @@ I have a passion for exploring new technology, always eager to dive into the lat
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2EB2EC&lines=Thank+you+for+visiting+my+profile!" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/SoubhLance">
+    <img src="https://github-profile-trophy.vercel.app/?username=SoubhLance&theme=darkhub" alt="SoubhLance's Trophy" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SoubhLance">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoubhLance&theme=github_dark" alt="SoubhLance's GitHub Stats" />
+  </a>
+</p>
+
 
 
 
