@@ -69,8 +69,9 @@ I’m deeply interested in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SoubhLance&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoubhLance&theme=black-ice&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoubhLance&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 
 [![SoubhLance's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoubhLance&theme=react-dark)](https://github.com/SoubhLance)
