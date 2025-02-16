@@ -104,8 +104,11 @@ I’m deeply interested in:
   <p align="center">
   <img src="https://img.shields.io/github/followers/SoubhLance?color=0D47A1&style=for-the-badge" alt="followers" />
   <img src="https://img.shields.io/github/stars/SoubhLance?color=0D47A1&style=for-the-badge" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=PiyushSaini&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 </p>
+
+
 
 ### 😄 Pronouns
 He/Him
