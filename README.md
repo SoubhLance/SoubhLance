@@ -23,16 +23,6 @@ I’m deeply interested in:
 - **Game and App Development**: From creating apps to designing game worlds like Zephyr Odyssey in Unreal Engine.
 - **Artificial Intelligence & Machine Learning**: Applying AI solutions to real-world problems, with a focus on Python, OpenCV, and DBMS integrations.
 - **Photography and Videography**: Capturing and editing visuals with Adobe Lightroom and Premiere Pro.
-
----
-
-### 🌱 Currently Exploring:
-
-- Advanced AI/ML algorithms and their practical applications.
-- Natural Language Processing (NLP) for seamless human-machine interaction.
-- OpenCV for computer vision innovations with Python.
-- Deepening game development capabilities in Unreal Engine.
-- Expanding knowledge in custom OS builds (Linux).
   
 ---
 
