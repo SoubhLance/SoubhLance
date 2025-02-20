@@ -30,28 +30,11 @@ I’m deeply interested in:
 ### ⚙️ Skills & Abilities
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,cs,html,css,js,mysql,androidstudio,vscode,anaconda,eclipse,mongodb,opencv,docker,unreal,unity,godot,git,github,vercel,figma,blender,ps,pr,ae,linux" />
+  </a>
 </p>
+
 
 ---
 
@@ -74,22 +57,22 @@ I’m deeply interested in:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/soubhiksadhu">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="[https://www.instagram.com/your_instagram_username](https://www.instagram.com/_piklusadhu_/)">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/_piklusadhu_/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="[https://x.com/your_x_username](https://x.com/_PikluSadhu_)">
-  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=&logoColor=white" alt="X" />
-</a>
-  <a href="[https://your_portfolio_link](https://soubhik-dev.vercel.app/)">
-    <img src="https://img.shields.io/badge/Portfolio-%23ff5722.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://x.com/_PikluSadhu_">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
+  </a>
+  <a href="https://soubhik-dev.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=actix" alt="Portfolio" />
   </a>
   <a href="https://github.com/SoubhLance">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="mailto:studysadhu2022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <p align="center">
   <img src="https://img.shields.io/github/followers/SoubhLance?color=0D47A1&style=for-the-badge" alt="followers" />
