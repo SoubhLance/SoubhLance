@@ -41,7 +41,9 @@ I’m deeply interested in:
 ### ⚙️ Git Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoubhLance&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://gitmystat.vercel.app/user?theme=gold&username=Soubhlance" alt="GitHub Stats" />
+  <img src="https://gitmystat.vercel.app/top?theme=gold&username=Soubhlance&layout=bar"/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoubhLance&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
