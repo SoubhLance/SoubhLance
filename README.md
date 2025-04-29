@@ -19,7 +19,7 @@ I'm Soubhik Sadhu, a passionate tech enthusiast and a 2nd-year Computer Science 
 ### 👀 Areas of Focus:
 I’m deeply interested in:
 
-- **Operating System Development**: Currently building my own OS, Pavitra OS, based on Arch Linux.
+- **Operating System Development**: Currently building my own OS, Pavitra OS, based on Debian Linux.
 - **Game and App Development**: From creating apps to designing game worlds like Zephyr Odyssey in Unreal Engine.
 - **Artificial Intelligence & Machine Learning**: Applying AI solutions to real-world problems, with a focus on Python, OpenCV, and DBMS integrations.
 - **Photography and Videography**: Capturing and editing visuals with Adobe Lightroom and Premiere Pro.
