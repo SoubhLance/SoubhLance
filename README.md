@@ -13,7 +13,7 @@
 
 <h3>🚀 Hi, I'm <strong>@SoubhLance</strong>!</h3>
 
-I'm Soubhik Sadhu, a passionate tech enthusiast and a 2nd-year Computer Science Engineering student at SRM University (KTR) with a specialization in Artificial Intelligence and Machine Learning. I'm always on a quest to explore new technologies, challenge myself with innovative projects, and contribute to the tech community.
+I'm Soubhik Sadhu, a passionate tech enthusiast and a 3rd-year Computer Science Engineering student at SRM University (KTR) with a specialization in Artificial Intelligence and Machine Learning. I'm always on a quest to explore new technologies, challenge myself with innovative projects, and contribute to the tech community.
 
 <blockquote>
   Currently architecting <strong>Pavitra OS</strong> – A Debian-based Linux distribution<br>
