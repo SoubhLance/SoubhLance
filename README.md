@@ -1,22 +1,33 @@
 <h1 align="center">🌟Soubhik Sadhu </h1>
 
 ### `Code with Passion, Create with Precision, Deliver with Impact`
-
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2EB2EC&lines=Welcome+to+my+GitHub+profile!;I+am+a+tech+enthusiast.;Let's+collaborate+on+exciting+projects!" />
 </p>
 
 ---
+<table>
+  <tr>
+    <td>
 
-### 🚀 Hi, I'm @SoubhLance!
+<h3>🚀 Hi, I'm <strong>@SoubhLance</strong>!</h3>
 
 I'm Soubhik Sadhu, a passionate tech enthusiast and a 2nd-year Computer Science Engineering student at SRM University (KTR) with a specialization in Artificial Intelligence and Machine Learning. I'm always on a quest to explore new technologies, challenge myself with innovative projects, and contribute to the tech community.
 
-> Currently architecting **Pavitra OS** - A Debian-based Linux distribution  
-> Designing **Zephyr Odyssey** - An immersive gaming experience in Unreal Engine  
-> 3rd Year CSE-AIML @ SRM University (KTR) | Tech Enthusiast | Spiritual Seeker
->
+<blockquote>
+  Currently architecting <strong>Pavitra OS</strong> – A Debian-based Linux distribution<br>
+  Designing <strong>Zephyr Odyssey</strong> – An immersive gaming experience in Unreal Engine<br>
+  3rd Year CSE-AIML @ SRM University (KTR) | Tech Enthusiast | Spiritual Seeker
+</blockquote>
+
+</td>
+<td align="right" style="vertical-align: top;">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="220" alt="Tech Penguin">
+</td>
+  </tr>
+</table>
+
 ```ascii
     ╭─────────────────────────────────────────────────────────────────╮
     │  "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।"                                 │
