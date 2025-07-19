@@ -250,10 +250,15 @@ graph TD
              ╰─────────────────────────────────────────╯
 ```
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+sanctuary!;Let's+code+the+future+together!;May+your+code+compile+and+your+tests+pass!;Keep+innovating%2C+keep+inspiring!" />
+</p>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2EB2EC&lines=Thank+you+for+visiting+my+profile!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/SoubhLance">
