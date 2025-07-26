@@ -249,6 +249,7 @@ graph TD
              │  May all beings be happy and healthy    │
              ╰─────────────────────────────────────────╯
 ```
+`
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+sanctuary!;Let's+code+the+future+together!;May+your+code+compile+and+your+tests+pass!;Keep+innovating%2C+keep+inspiring!" />
