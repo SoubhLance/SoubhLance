@@ -17,7 +17,7 @@ I'm Soubhik Sadhu, a passionate tech enthusiast and a 3rd-year Computer Science 
 
 <blockquote>
   Currently architecting <strong>Pavitra OS</strong> – A Debian-based Linux distribution<br>
-  Designing <strong>Zephyr Odyssey</strong> – An immersive gaming experience in Unreal Engine<br>
+  Designing <strong>Drift Odyssey</strong> – An immersive gaming experience in Unreal Engine<br>
   3rd Year CSE-AIML @ SRM University (KTR) | Tech Enthusiast | Spiritual Seeker
 </blockquote>
 
