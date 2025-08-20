@@ -1,7 +1,8 @@
 <h1 align="center">🌟Soubhik Sadhu </h1>
 
-### `Code with Passion, Create with Precision, Deliver with Impact`
----
+<h3 align="center"><code>Code with Passion, Create with Precision, Deliver with Impact</code></h3>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2EB2EC&lines=Welcome+to+my+GitHub+profile!;I+am+a+tech+enthusiast.;Let's+collaborate+on+exciting+projects!" />
 </p>
@@ -17,7 +18,7 @@ I'm Soubhik Sadhu, a passionate tech enthusiast and a 3rd-year Computer Science 
 
 <blockquote>
   Currently architecting <strong>Pavitra OS</strong> – A Debian-based Linux distribution<br>
-  Designing <strong>Highway Drifters</strong> – An immersive gaming experience in Unreal Engine<br>
+  Developing <strong>ML Algorithms</strong> – Exploring deep learning and neural networks<br>
   3rd Year CSE-AIML @ SRM University (KTR) | Tech Enthusiast | Spiritual Seeker
 </blockquote>
 
@@ -30,8 +31,9 @@ I'm Soubhik Sadhu, a passionate tech enthusiast and a 3rd-year Computer Science 
 
 ```ascii
     ╭─────────────────────────────────────────────────────────────────╮
-    │  "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।"                                 │
-    │  Focus on your actions, not the results - Bhagavad Gita         │
+    │  "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।                                  │
+    │   मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥"                                │
+    │  Focus on your actions, not the results - Bhagavad Gita 2.47    │
     ╰─────────────────────────────────────────────────────────────────╯
 ```
 
@@ -44,7 +46,7 @@ class SoubhikSadhu:
         self.name = "Soubhik Sadhu"
         self.role = "Digital Craftsman & AI Enthusiast"
         self.life_philosophy = "धर्म + Technology = Balanced Innovation"
-        self.current_focus = ["Pavitra OS", "Highway Drifters", "AI Research"]
+        self.current_focus = ["Pavitra OS", "ML Algorithms", "AI Research"]
         
     def daily_routine(self):
         return {
@@ -66,11 +68,11 @@ class SoubhikSadhu:
 
 <div align="center">
 
-| 🖥️ **System Architecture** | 🎮 **Game Development** | 🤖 **AI & ML Research** | 📸 **Creative Tech** |
+| 🖥️ **System Architecture** | 🤖 **Machine Learning** | 🧠 **AI Research** | 📸 **Creative Tech** |
 |:---:|:---:|:---:|:---:|
-| **Pavitra OS** | **Zephyr Odyssey** | **Computer Vision** | **Digital Content** |
-| Debian-based Linux OS | Unreal Engine Adventure | OpenCV & Python ML | Adobe Creative Suite |
-| Custom kernel modifications | Immersive world building | DBMS integrations | Photography & Videography |
+| **Pavitra OS** | **Deep Learning Models** | **Computer Vision** | **Digital Content** |
+| Debian-based Linux OS | Neural Networks & Algorithms | OpenCV & Python ML | Adobe Creative Suite |
+| Custom kernel modifications | Data Science Pipelines | DBMS integrations | Photography & Videography |
 
 </div>
 
@@ -134,22 +136,22 @@ $ ./boot_pavitra_os
 </td>
 <td width="50%">
 
-### 🎮 **Zephyr Odyssey Game**
-```cpp
-class ZephyrOdyssey {
-public:
-    Engine* engine = UnrealEngine5;
-    Genre genre = "Adventure/RPG";
-    Status status = "In Development";
+### 🤖 **ML Algorithm Development**
+```python
+class MLExploration:
+    def __init__(self):
+        self.algorithms = ["Neural Networks", "SVM", "Random Forest"]
+        self.libraries = ["TensorFlow", "PyTorch", "Scikit-learn"]
+        self.status = "Active Research"
     
-    void initialize() {
-        loadAssets();
-        createWorldMap();
-        implementGameMechanics();
-    }
-};
+    def current_projects(self):
+        return {
+            "deep_learning": "CNN & RNN implementations",
+            "computer_vision": "Image classification models",
+            "nlp": "Text analysis & sentiment detection"
+        }
 ```
-> **Concept**: An immersive adventure game blending mythology with modern storytelling.
+> **Focus**: Exploring cutting-edge machine learning algorithms and their practical applications in real-world scenarios.
 
 </td>
 </tr>
@@ -158,7 +160,7 @@ public:
 ---
 
 ### ⚡ Fun Facts
-When I’m not coding, you’ll find me reading the Gita, or relaxing with meditation, yoga, and listening to bhajans or kathas.  
+When I'm not coding, you'll find me reading the Gita, or relaxing with meditation, yoga, and listening to bhajans or kathas.  
 I have a passion for exploring new technology, always eager to dive into the latest innovations.
 
 ---
@@ -171,22 +173,22 @@ I have a passion for exploring new technology, always eager to dive into the lat
 %% 🕸️ Skill Web – Interconnected Creativity & Logic
 graph TD
     OS["🔧<br><b>OS Development</b><br><sub>⚙️ Kernel, Drivers, Optimization</sub>"]:::core
-    Game["🎮<br><b>Game Development</b><br><sub>🎲 Design, Physics, Engines</sub>"]:::tech
+    ML["🤖<br><b>Machine Learning</b><br><sub>🧠 Algorithms, Models, Analysis</sub>"]:::ml
     AI["🤖<br><b>AI & ML</b><br><sub>🧠 Learning, Reasoning, Automation</sub>"]:::ml
     Mobile["📱<br><b>Mobile Dev</b><br><sub>📲 Native & Cross-platform</sub>"]:::tech
     Creative["🎨<br><b>Creative Tech</b><br><sub>🎭 Art, UI/UX, Code Fusion</sub>"]:::creative
 
     %% Circular base
-    OS --> Game
-    Game --> AI
+    OS --> ML
+    ML --> AI
     AI --> Mobile
     Mobile --> Creative
     Creative --> OS
 
     %% Cross-links
     OS --> AI
-    Game --> Creative
-    Mobile --> Game
+    ML --> Creative
+    Mobile --> ML
     Creative --> AI
 
     %% Styles
@@ -194,9 +196,9 @@ graph TD
     classDef tech fill:#43AA8B,stroke:#1a1a1a,color:#fff,stroke-width:2px
     classDef ml fill:#577590,stroke:#1a1a1a,color:#fff,stroke-width:2px
     classDef creative fill:#F9C74F,stroke:#1a1a1a,color:#000,stroke-width:2px
-
-
 ```
+</div>
+
 ## 🤝 Connect & Collaborate
 
 <p align="center">
@@ -244,10 +246,11 @@ graph TD
 ### 🌟 "Where Technology Meets Spirituality" 🌟
 
 ```
-             ╭─────────────────────────────────────────╮
-             │  "सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः"         │
-             │  May all beings be happy and healthy    │
-             ╰─────────────────────────────────────────╯
+             ╭─────────────────────────────────────────────────╮
+             │  "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।"                   │
+             │  "अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥"              │
+             │  Surrender all duties unto Me alone - BG 18.66  │
+             ╰─────────────────────────────────────────────────╯
 ```
 ---
 <p align="center">
@@ -262,9 +265,10 @@ graph TD
 
 <p align="center">
   <a href="https://github.com/SoubhLance">
-    <img src="https://github-profile-trophy.vercel.app/?username=SoubhLance&theme=darkhub" alt="SoubhLance's Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SoubhLance&theme=darkhub&margin-w=15&margin-h=15" alt="SoubhLance's Trophy" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/SoubhLance">
