@@ -100,21 +100,23 @@ class SoubhikSadhu:
 
 ## 📊 GitHub Analytics
 
-
 <p align="center">
-  <img src="https://gitmystat.vercel.app/user?theme=gold&username=Soubhlance" alt="GitHub Stats" />
-  <img src="https://gitmystat.vercel.app/top?theme=gold&username=Soubhlance&layout=bar"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoubhLance&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SoubhLance&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoubhLance&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoubhLance&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-
-[![SoubhLance's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoubhLance&theme=react-dark)](https://github.com/SoubhLance)
-
-</div>
-
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoubhLance&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</p>
 ---
 
 ## 🎯 Current Missions
