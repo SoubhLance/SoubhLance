@@ -1,13 +1,13 @@
-<h1 align="center">🌟Soubhik Sadhu </h1>
+<h1 align="center">🌟 Soubhik Sadhu</h1>
 
 <h3 align="center"><code>Code with Passion, Create with Precision, Deliver with Impact</code></h3>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2EB2EC&lines=Welcome+to+my+GitHub+profile!;I+am+a+tech+enthusiast.;Let's+collaborate+on+exciting+projects!" />
 </p>
 
 ---
+
 <table>
   <tr>
     <td>
@@ -82,41 +82,100 @@ class SoubhikSadhu:
 
 <div align="center">
 
-
-### ⚙️ Skills & Abilities
+### ⚙️ Programming Languages & Frameworks
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,cs,html,css,js,mysql,androidstudio,vscode,anaconda,eclipse,mongodb,opencv,docker,unreal,unity,godot,git,github,vercel,figma,blender,ps,pr,ae,linux" />
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,cs,html,css,js" />
   </a>
 </p>
 
+### 🗄️ Databases & Backend Technologies
 
-  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,docker" />
+  </a>
+</p>
+
+### 🛠️ Development Tools & IDEs
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,anaconda,eclipse,git,github,vercel,linux" />
+  </a>
+</p>
+
+### 🤖 AI/ML & Computer Vision
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
+  </a>
+</p>
+
+### 🎮 Game Development & 3D
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unreal,unity,godot,blender" />
+  </a>
+</p>
+
+### 🎨 Creative Suite
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae" />
+  </a>
+</p>
+
 </div>
-
 
 ---
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+
+### 📈 Performance Metrics
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SoubhLance&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoubhLance&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+### 🔥 Contribution Streak
+
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SoubhLance&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoubhLance&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoubhLance&theme=radical&hide_border=true&stroke=2EB2EC&ring=FF6B6B&fire=FFD700&currStreakLabel=2EB2EC" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoubhLance&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Streak-Keep%20it%20going!-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Streak Badge" />
+  <img src="https://img.shields.io/badge/Contributions-Every%20Day%20Counts-2EB2EC?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Badge" />
 </p>
 
+### 📅 Contribution Activity
+
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoubhLance&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoubhLance&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=FFD700&line=2EB2EC" alt="Contribution Graph" />
 </p>
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SoubhLance&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+</div>
+
 ---
 
 ## 🎯 Current Missions
@@ -134,6 +193,12 @@ $ cd PavittraOS && make clean && make
 $ ./boot_pavitra_os
 ```
 > **Vision**: A lightweight, secure, and spiritually-inspired Linux distribution focused on productivity and mindfulness.
+
+**Tech Stack:**
+- 🐧 Debian Base
+- 🔧 Custom Kernel Modules
+- 🎨 GNOME/KDE Desktop
+- 📦 APT Package Manager
 
 </td>
 <td width="50%">
@@ -155,15 +220,15 @@ class MLExploration:
 ```
 > **Focus**: Exploring cutting-edge machine learning algorithms and their practical applications in real-world scenarios.
 
+**Research Areas:**
+- 🧠 Neural Networks
+- 👁️ Computer Vision
+- 💬 Natural Language Processing
+- 📊 Data Analytics
+
 </td>
 </tr>
 </table>
-
----
-
-### ⚡ Fun Facts
-When I'm not coding, you'll find me reading the Gita, or relaxing with meditation, yoga, and listening to bhajans or kathas.  
-I have a passion for exploring new technology, always eager to dive into the latest innovations.
 
 ---
 
@@ -172,26 +237,30 @@ I have a passion for exploring new technology, always eager to dive into the lat
 <div align="center">
 
 ```mermaid
-%% 🕸️ Skill Web – Interconnected Creativity & Logic
+%%{init: {'theme':'dark'}}%%
 graph TD
     OS["🔧<br><b>OS Development</b><br><sub>⚙️ Kernel, Drivers, Optimization</sub>"]:::core
     ML["🤖<br><b>Machine Learning</b><br><sub>🧠 Algorithms, Models, Analysis</sub>"]:::ml
-    AI["🤖<br><b>AI & ML</b><br><sub>🧠 Learning, Reasoning, Automation</sub>"]:::ml
+    AI["🤖<br><b>AI & Deep Learning</b><br><sub>🧠 Learning, Reasoning, Automation</sub>"]:::ml
     Mobile["📱<br><b>Mobile Dev</b><br><sub>📲 Native & Cross-platform</sub>"]:::tech
     Creative["🎨<br><b>Creative Tech</b><br><sub>🎭 Art, UI/UX, Code Fusion</sub>"]:::creative
+    DB["🗄️<br><b>Database Systems</b><br><sub>💾 SQL, NoSQL, Data Design</sub>"]:::tech
 
-    %% Circular base
+    %% Circular connections
     OS --> ML
     ML --> AI
     AI --> Mobile
     Mobile --> Creative
-    Creative --> OS
+    Creative --> DB
+    DB --> OS
 
     %% Cross-links
     OS --> AI
     ML --> Creative
     Mobile --> ML
     Creative --> AI
+    DB --> ML
+    AI --> DB
 
     %% Styles
     classDef core fill:#F94144,stroke:#1a1a1a,color:#fff,stroke-width:2px
@@ -199,38 +268,58 @@ graph TD
     classDef ml fill:#577590,stroke:#1a1a1a,color:#fff,stroke-width:2px
     classDef creative fill:#F9C74F,stroke:#1a1a1a,color:#000,stroke-width:2px
 ```
+
 </div>
+
+---
+
+## 💾 Database Expertise
+
+<div align="center">
+
+| 🗄️ **Relational** | 📦 **NoSQL** | 🔄 **ORM & Tools** |
+|:---:|:---:|:---:|
+| **PostgreSQL** | **MongoDB** | **SQLAlchemy** |
+| Advanced queries & optimization | Document-based storage | Python database toolkit |
+| **MySQL** | **Redis** | **Prisma** |
+| ACID compliance | In-memory caching | Next-gen ORM |
+| **SQLite** | **Firebase** | **DBeaver** |
+| Embedded databases | Real-time database | Database management |
+
+</div>
+
+---
 
 ## 🤝 Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/soubhiksadhu">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Soubhik%20Sadhu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/_piklusadhu_/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-_piklusadhu__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://x.com/_PikluSadhu_">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
+    <img src="https://img.shields.io/badge/X-_PikluSadhu__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://soubhik-dev.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=actix" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/SoubhLance">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-SoubhLance-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:studysadhu2022@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-studysadhu2022-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <p align="center">
-  <img src="https://img.shields.io/github/followers/SoubhLance?color=0D47A1&style=for-the-badge" alt="followers" />
-  <img src="https://img.shields.io/github/stars/SoubhLance?color=0D47A1&style=for-the-badge" alt="stars" />
-  <img src="https://komarev.com/ghpvc/?username=SoubhLance&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/SoubhLance?color=0D47A1&style=for-the-badge&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/SoubhLance?color=FFD700&style=for-the-badge&logo=github" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=SoubhLance&label=Profile%20Views&color=2EB2EC&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
-
 
 ## 🎭 Beyond the Code
 
@@ -245,37 +334,60 @@ graph TD
 
 </div>
 
+---
+
+### ⚡ Fun Facts
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EB2EC&center=true&vCenter=true&width=600&lines=When+not+coding%2C+I+read+the+Gita;Meditation+and+Yoga+keep+me+balanced;I+love+exploring+cutting-edge+technology;Bhajans+and+Kathas+bring+peace+to+my+soul" />
+</p>
+
+---
+
 ### 🌟 "Where Technology Meets Spirituality" 🌟
 
-```
+```ascii
              ╭─────────────────────────────────────────────────╮
              │  "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।"                   │
              │  "अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥"              │
              │  Surrender all duties unto Me alone - BG 18.66  │
              ╰─────────────────────────────────────────────────╯
 ```
+
 ---
+
+## 📈 Detailed GitHub Insights
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+sanctuary!;Let's+code+the+future+together!;May+your+code+compile+and+your+tests+pass!;Keep+innovating%2C+keep+inspiring!" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoubhLance&theme=radical" alt="Profile Details" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoubhLance&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoubhLance&theme=radical" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoubhLance&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SoubhLance&theme=radical" alt="Productive Time" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+sanctuary!;Let's+code+the+future+together!;May+your+code+compile+and+your+tests+pass!;Keep+innovating%2C+keep+inspiring!;धर्मो+रक्षति+रक्षितः+-+Dharma+protects+those+who+protect+it" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/SoubhLance">
-    <img src="https://github-profile-trophy.vercel.app/?username=SoubhLance&theme=darkhub&margin-w=15&margin-h=15" alt="SoubhLance's Trophy" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/SoubhLance">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoubhLance&theme=github_dark" alt="SoubhLance's GitHub Stats" />
-  </a>
-</p>
-
 ---
+
+<div align="center">
+
+### 🙏 "_Code is poetry written in logic, debugging is meditation in action_" 🙏
+
+**Made with ❤️ and a sprinkle of spirituality**
+
+</div>
