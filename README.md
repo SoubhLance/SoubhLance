@@ -140,16 +140,19 @@ class SoubhikSadhu:
 
 ### 📈 Performance Metrics
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SoubhLance&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img height="165"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=SoubhLance&show_icons=true&theme=transparent&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&hide_border=true&count_private=true&include_all_commits=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoubhLance&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+      <img height="165"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SoubhLance&layout=compact&theme=transparent&bg_color=0d1117&title_color=ffffff&text_color=ffffff&hide_border=true&langs_count=8" />
     </td>
   </tr>
 </table>
+
 
 ### 🔥 Contribution Streak
 
@@ -168,11 +171,6 @@ class SoubhikSadhu:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoubhLance&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=FFD700&line=2EB2EC" alt="Contribution Graph" />
 </p>
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoubhLance&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
 </div>
 
