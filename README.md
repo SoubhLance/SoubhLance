@@ -280,11 +280,8 @@ graph TD
 | 🗄️ **Relational** | 📦 **NoSQL** | 🔄 **ORM & Tools** |
 |:---:|:---:|:---:|
 | **PostgreSQL** | **MongoDB** | **SQLAlchemy** |
-| Advanced queries & optimization | Document-based storage | Python database toolkit |
-| **MySQL** | **Redis** | **Prisma** |
-| ACID compliance | In-memory caching | Next-gen ORM |
-| **SQLite** | **Firebase** | **DBeaver** |
-| Embedded databases | Real-time database | Database management |
+| **MySQL** | **Firebase** | **Pydantic** |
+| **SQLite** | **Supabase** | **FastAPI** |
 
 </div>
 
